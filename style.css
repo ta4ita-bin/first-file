@@ -1,0 +1,60 @@
+body {
+    background-color: bisque;
+}
+
+.main-container {
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+}
+
+.container-title {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.name {
+    color: rgb(71, 35, 35);
+}
+
+.name2 {
+    color: rgb(120, 58, 58);
+}
+
+.about-container {}
+
+.about-me {
+    color: rgb(130, 39, 39);
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.image {
+    width: 200px;
+    height: 300px;
+}
+
+.price {
+    color: rgb(32, 39, 62);
+}
+
+.bonus {
+    color: rgb(219, 109, 109);
+}
+
+.contact {
+    width: fit-content;
+    margin: 30px auto 0;
+    color: rgb(255, 255, 255);
+    background-color: rgb(157, 82, 82);
+    padding: 10px 30px;
+}
+
+.contact a {
+    color: white;
+}
